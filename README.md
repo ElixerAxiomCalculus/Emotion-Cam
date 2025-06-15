@@ -131,11 +131,6 @@ EmotionCam/
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change or add.
 
----
-
-##  License
-
-[MIT License](LICENSE)
 
 ---
 
