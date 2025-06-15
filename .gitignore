@@ -1,0 +1,16 @@
+# Python
+backend/env/
+__pycache__/
+*.pyc
+
+# Vosk Model (huge)
+backend/vosk-model-small-en-us-0.15/
+
+# Node.js
+frontend/node_modules/
+dist/
+*.log
+
+# System files
+.DS_Store
+.env
